@@ -12,3 +12,5 @@ Esercizi svolti per la preparazione dell'esame di Basi Di Dati
 18/01/24 h. 16:46 --> Aggiunta quarta esercitazione svolta
 
 05/02/24 h. 15:29 --> Aggiunta esercitazione sulle stored procedure
+
+         h. 17:49 --> Aggiunta esercitazione sui trigger
