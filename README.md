@@ -16,3 +16,5 @@ Esercizi svolti per la preparazione dell'esame di Basi Di Dati
 05/02/24 h. 17:49 --> Aggiunta esercitazione sui trigger
 
 08/02/24 h. 17:19 --> Aggiunta esercitazione su window functions
+
+15/02/24 h. 10:24 --> Aggiunta prima prova d'esame svolta
