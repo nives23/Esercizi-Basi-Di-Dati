@@ -23,3 +23,5 @@ che reputavo utili per la preparazione del mio esame senza quindi svolgere le pr
 15/02/24 h. 10:24 --> Aggiunta prima prova d'esame svolta
 
 15/02/24 h. 12:10 --> Aggiunta seconda prova d'esame svolta
+
+15/02/24 h. 16:45 --> Aggiunta file "Prova 20_07_15.sql"
