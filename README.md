@@ -1,6 +1,9 @@
 # Esercizi-Basi-Di-Dati
 Esercizi svolti per la preparazione dell'esame di Basi Di Dati
 
+*NB: Delle prove di esame, avendo svolto quelle prese dal sito del prof, ho svolto solamente gli esercizi 
+che reputavo utili per la preparazione del mio esame senza quindi svolgere le prove nella loro interezza* 
+
 15/12/23 --> Creazione Repository
 
 15/12/23 h. 12:50 --> Aggiunta prima esercitazione svolta
