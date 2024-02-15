@@ -21,3 +21,5 @@ che reputavo utili per la preparazione del mio esame senza quindi svolgere le pr
 08/02/24 h. 17:19 --> Aggiunta esercitazione su window functions
 
 15/02/24 h. 10:24 --> Aggiunta prima prova d'esame svolta
+
+15/02/24 h. 12:10 --> Aggiunta seconda prova d'esame svolta
