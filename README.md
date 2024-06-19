@@ -27,3 +27,5 @@ che reputavo utili per la preparazione del mio esame senza quindi svolgere le pr
 15/02/24 h. 16:45 --> Aggiunta file "Prova 20_07_15.sql"
 
 09/06/24 h. 11:42 --> Aggiunta dei file "Primo Appello Giugno 2015.sql", "Appello giugno 2015.sql", "Appello 25 febbraio 2015" e "Appello 31 gennaio 2015"
+
+19/06/24 h. 16:40 --> Aggiunta del file "Appello 10 luglio 2014.sql"
